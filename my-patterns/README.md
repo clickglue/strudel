@@ -1,4 +1,4 @@
-# my-patterns
+# my-patterns vanGuido
 
 This directory can be used to save your own patterns, which then get
 made into a pattern swatch.
