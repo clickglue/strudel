@@ -31,7 +31,7 @@ export default defineConfig({
     tailwind(),
   ],
   site: `https://clickglue.github.io/strudel`,
-  base: '/swatch',
+  base: '/strudel',
 });
 
 /*
