@@ -30,7 +30,7 @@ export default defineConfig({
     mdx(options),
     tailwind(),
   ],
-  site: `https://clickglue.github.io/strudel`,
+  site: `https://clickglue.github.io`,
   base: '/strudel',
 });
 
