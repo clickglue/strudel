@@ -30,8 +30,8 @@ export default defineConfig({
     mdx(options),
     tailwind(),
   ],
-  site: `https://strudel.tidalcycles.org`,
-  base: '/',
+  site: `https://clickglue.github.io/strudel`,
+  base: '/strudel',
 });
 
 /*
