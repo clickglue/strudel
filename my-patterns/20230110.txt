@@ -1,4 +1,4 @@
-var a=note("[0@3 4 1 3 _ _ 2 _ 1]/4".scale('D3 hirajoshi'))
+var a=note("[0@3 4 1 3 2 1]/4".scale('D3 hirajoshi'))
 .s("kawai").gain(.2).delay(.25).jux(rev)
 
 var b=note("<[c2]!3 [d2]!3>".scale('D3 hirajoshi'))
